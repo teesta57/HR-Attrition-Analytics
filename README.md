@@ -126,12 +126,3 @@ The dashboard provides a comprehensive and interactive analysis of key HR metric
 You're welcome to fork the project, explore the dataset, enhance visualizations, or suggest improvements.
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
-More info: [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
-
----
-
-**Note:** This dashboard is for demonstration and portfolio purposes only. The insights reflect only the dataset used and should be further validated before applying to real-world scenarios.
