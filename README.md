@@ -82,7 +82,7 @@ The dashboard provides a comprehensive and interactive analysis of key HR metric
 
 ```
 .
-├── HR-Analytics.pbix                 (Power BI report file)
+├── HR-Analytics.pbix                (Power BI report file)
 ├── HR-Employee-Attrition.csv        (Raw dataset)
 ├── README.md                        (Project documentation)
 └── Previews/                        (Dashboard screenshot images)
