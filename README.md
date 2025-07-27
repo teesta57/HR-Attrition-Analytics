@@ -78,7 +78,7 @@ The dashboard provides a comprehensive and interactive analysis of key HR metric
 
 ---
 
-## 📂 Project Structure
+## 📂 File Structure
 
 ```
 .
